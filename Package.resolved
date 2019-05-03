@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AquaCore",
+        "repositoryURL": "https://github.com/ivanpetrov16130/AquaCore.git",
+        "state": {
+          "branch": "master",
+          "revision": "ae9a6580f3384c4cea8f1648c01f6e50ebe94fd3",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

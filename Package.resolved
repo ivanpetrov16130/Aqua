@@ -5,9 +5,18 @@
         "package": "AquaCore",
         "repositoryURL": "https://github.com/ivanpetrov16130/AquaCore.git",
         "state": {
-          "branch": "master",
-          "revision": "ae9a6580f3384c4cea8f1648c01f6e50ebe94fd3",
+          "branch": "development",
+          "revision": "24f7a22eb3cea14a8f365e7ceafc4f39dd7fd2e0",
           "version": null
+        }
+      },
+      {
+        "package": "ShellOut",
+        "repositoryURL": "https://github.com/JohnSundell/ShellOut.git",
+        "state": {
+          "branch": null,
+          "revision": "d3d54ce662dfee7fef619330b71d251b8d4869f9",
+          "version": "2.2.0"
         }
       }
     ]

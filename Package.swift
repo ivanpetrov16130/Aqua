@@ -6,8 +6,7 @@ import PackageDescription
 let package = Package(
     name: "Aqua",
     dependencies: [
-        // Dependencies declare other packages that this package depends on.
-        .package(url: "https://github.com/ivanpetrov16130/AquaCore.git", .branch("master")),
+        .package(url: "https://github.com/ivanpetrov16130/AquaCore.git", .branch("development")),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
